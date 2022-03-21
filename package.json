@@ -1,0 +1,19 @@
+{
+  "name": "skillrush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://duckdebug: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@github.com/duckdebug/SkillRush.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duckdebug/SkillRush/issues"
+  },
+  "homepage": "https://github.com/duckdebug/SkillRush#readme"
+}
