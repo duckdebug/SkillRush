@@ -2,9 +2,12 @@
 display: flex;
 justify-content: center;
 align-items: center;
+#center a div
+margin: auto;
 
 #add div dynamically/programatically
 https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/#:~:text=In%20a%20compiled%20language%2C%20the,reads%20and%20executes%20the%20code.
+
 
 #commit and push code to github
 git status
@@ -14,3 +17,4 @@ git push origin master
 
 #add push rights
 git remote set-url origin https://duckdebug:<token>@github.com/duckdebug/SkillRush.git
+

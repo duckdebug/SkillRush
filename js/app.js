@@ -1,6 +1,9 @@
 function createSubjectDiv(subject){
     let divElement = document.createElement('div')
     divElement.className="subjectDiv"
+    divElement.onclick = function () {
+        location.href = "genericQApage.html";
+    }
     let divElementText = document.createTextNode(subject)
     divElement.appendChild(divElementText)
     document.body.appendChild(divElement)
