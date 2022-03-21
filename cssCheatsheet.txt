@@ -11,3 +11,6 @@ git status
 git add .
 git commit -am "write your message here"
 git push origin master
+
+#add push rights
+git remote set-url origin https://duckdebug:<token>@github.com/duckdebug/SkillRush.git
